@@ -20,7 +20,7 @@
 
 - git add .
 
-  R : Comando utilizado para adicionar mais de um arquivo ao mesmo tempo.
+  R : Comando utilizado para adicionar mais de um arquivo ao mesmo tempo, e atualizar arquivos com novas linhas de codigos.
 
   
 
@@ -43,6 +43,24 @@
 - git config -global user.name " Seu Nome "
 
   R : Comando usado logo apos o codigo acima para atrelar o seu nome a esta versão.
+
+  
+
+- git remote add origin **colar o url do repositorio criado no site do github.com**
+
+  R : codigo usado para enviar o arquivo direto para o link copiado do diretorio.
+
+  
+
+- git push 
+
+  R : Após criar o repositorio no site do github.com copiar o link url e
+
+  
+
+- git push --set-upstream origin master
+
+  R : usado para enviar o codigo para a branch ' Origin ' ou ' Master '.
 
   
 
