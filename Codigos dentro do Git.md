@@ -64,4 +64,6 @@
 
   
 
-- 
+- git reflog 
+
+  R : usado para verificar qual a versao do seu codigo.
